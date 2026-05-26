@@ -1,0 +1,2 @@
+# crossbridge-logos
+logo
